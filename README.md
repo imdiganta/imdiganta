@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
   <p>
 - 👋 Hi, I’m @imdiganta <br>
-- 👀 I’m interested in ...<br>
+- 👀 I’m interested in Machine Learning<br>
 - 🌱 I’m currently learning ...<br>
 - 💞️ I’m looking to collaborate on ...<br>
 - 📫 How to reach me ...<br>
