@@ -3,6 +3,7 @@
 imdiganta/imdiganta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align="center"><img src="THUMB.png" alt=""></p>
 <h1 align="center">Hi 👋, I'm DIGANTA</h1>
 <h3 align="center">A developer from India</h3>
 
