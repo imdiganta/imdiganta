@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Programming is not a skill for me it's just my habit.</h2>
 
 ###
 
