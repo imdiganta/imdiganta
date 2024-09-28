@@ -69,6 +69,7 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://raw.githubusercontent.com/imdiganta/imdiganta/output/snake.svg" alt="Snake animation" />
 
+
 ###
 
 
