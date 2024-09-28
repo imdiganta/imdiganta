@@ -86,6 +86,15 @@ You can click the Preview link to take a look at your changes.
 
 
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=imdiganta&label=Profile%20views&color=0e75b6&style=flat" alt="imdiganta" /> 
+  <img src="https://komarev.com/ghpvc/?username=imdiganta&label=Post%20&color=cf7314&style=flat" alt="imdiganta" /> 
+  <img src="https://komarev.com/ghpvc/?username=imdiganta&label=Post%20&color=cf7314&style=flat" alt="imdiganta" /> 
+  <img src="https://komarev.com/ghpvc/?username=imdiganta&label=Post%20&color=cf7314&style=flat" alt="imdiganta" /> 
+  <img src="https://komarev.com/ghpvc/?username=imdiganta&label=Post%20&color=cf7314&style=flat" alt="imdiganta" /> 
+  <img src="https://komarev.com/ghpvc/?username=imdiganta&label=Post%20&color=cf7314&style=flat" alt="imdiganta" /> 
+  <img src="https://komarev.com/ghpvc/?username=imdiganta&label=Post%20&color=cf7314&style=flat" alt="imdiganta" /> 
+</p>
 
 
 
