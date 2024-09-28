@@ -15,11 +15,11 @@ You can click the Preview link to take a look at your changes.
   <p>
 - 👋 Hi, I’m @imdiganta <br>
 - 👀 I’m interested in Machine Learning<br>
-- 🌱 I’m currently learning ...<br>
-- 💞️ I’m looking to collaborate on ...<br>
+- 🌱 I’m currently learning C++<br>
+<!-- - 💞️ I’m looking to collaborate on <br>
 - 📫 How to reach me ...<br>
 - 😄 Pronouns: ...<br>
-- ⚡ Fun fact: ...<br>
+- ⚡ Fun fact: ...<br> -->
 </p>
 </p>
 
