@@ -1,4 +1,3 @@
-
 <!---
 imdiganta/imdiganta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -6,30 +5,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm DIGANTA</h1>
 <h3 align="center">A developer from India</h3>
 <p align="center"><img src="THUMB.png" alt=""></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <h2 align="left">Programming is not a skill for me it's just my habit.</h2>
 
@@ -71,21 +46,6 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=imdiganta&label=Profile%20views&color=0e75b6&style=flat" alt="imdiganta" /> 
   <img src="https://komarev.com/ghpvc/?username=imdiganta&label=Post%20&color=cf7314&style=flat" alt="imdiganta" /> 
@@ -96,31 +56,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://komarev.com/ghpvc/?username=imdiganta&label=Post%20&color=cf7314&style=flat" alt="imdiganta" /> 
 </p>
 
-
-
-
-
-
-
-
-
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imdiganta" alt="imdiganta" /></a> </p>
 
-
-
-
-
-
-
-
-<h1 style="font-size:30px;" align="center">THANK YOU GITHUB FOR YOUR HALPING HAND👋</h1>
-
-
-
-
-
+<h1 style="font-size:30px;" align="center">👋THANK YOU GITHUB FOR YOUR HALPING HAND👋</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
