@@ -115,7 +115,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h1 align="center">THANK YOU GITHUB FOR YOUR HALPING HAND👋</h1>
+<h1 style="font-size:30px;" align="center">THANK YOU GITHUB FOR YOUR HALPING HAND👋</h1>
 
 
 
